@@ -28,11 +28,8 @@
 
 # 📖 Travel-list <a name="about-project"></a>
 
-**Budget_app** is a mobile web application where one can manage their budget: have a list of transactions associated with a category, so that one can see how much money you spent and on what.
-It is built using Ruby on Rails.
-
-# ERD Diagram
-<img width="374" alt="erd_diagram" src="https://user-images.githubusercontent.com/106140591/214742195-32de24a5-48be-4a7d-a906-cf274201523c.png">
+**Travel list** is a web application where one can manage their travel items: have a list of items to be packed for a journey, so that one can not forget anything for the journey
+It is built using React and javascript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -112,13 +109,8 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-> Ruby version : `ruby 3.1.2p20`
-    run `ruby -v`
-> Database : **PostgreSQL**
-
 ```sh
- gem install rails
+ bundle install
 ```
 
 ### Setup
@@ -160,11 +152,6 @@ To run the project, execute the following command:
 <!-- To run tests, run the following command: -->
 The app is tested using Rspec library you can check the tests by opening your terminal, then change the directory to the location of this repo using this command `cd file_path`, then run this command `gem install rspec`, finally run this command `rspec spec` or `rspec spec --format doc` for documented test results you should see a screen like that comming soon
 
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
 -
 ### Deployment
 
