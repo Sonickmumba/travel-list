@@ -31,6 +31,9 @@
 **Travel list** is a web application where one can manage their travel items: have a list of items to be packed for a journey, so that one can not forget anything for the journey
 It is built using React and javascript.
 
+![Travel list2 jpeg](https://github.com/Sonickmumba/travel-list/assets/106140591/0c18141c-7da5-439b-af84-395a45a96274)
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
