@@ -1,4 +1,3 @@
-# React + Vite
 
 <a name="readme-top"></a>
 
@@ -84,13 +83,10 @@ It is built using React and javascript.
 <!-- > Describe between 1-3 key features of the application. -->
 
 - **[A travel list page]**
-<!-- - **[A login page]**
-- **[A Sign up page]**
-- **[A registration page]**
-- **[A Category page (with all CRUD implementation, except for 'update')]**
-- **[A Transactions page (with all CRUD implementation, except for 'update')]**
-- **[Add Transactions page]**
-- **[Add Category page]** -->
+- **[Show how many items have been packed]**
+- **[Show packed items]**
+- **[Delete an item]**
+- **[Sort items in the list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +122,6 @@ Example commands:
   cd my-folder
   git clone git@github.com:Sonickmumba/travel-list.git
 ```
--
 
 ### Install
 
@@ -138,7 +133,6 @@ Install this project with:
   cd travel-list
   bundle install
 ```
--
 
 ### Usage
 
@@ -149,13 +143,11 @@ To run the project, execute the following command:
 ```sh
   rails npm run dev
 ```
--
 ### Run tests
 
 <!-- To run tests, run the following command: -->
 The app is tested using Rspec library you can check the tests by opening your terminal, then change the directory to the location of this repo using this command `cd file_path`, then run this command `gem install rspec`, finally run this command `rspec spec` or `rspec spec --format doc` for documented test results you should see a screen like that comming soon
 
--
 ### Deployment
 
 You can deploy this project using:
